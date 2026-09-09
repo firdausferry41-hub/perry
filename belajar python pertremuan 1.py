@@ -6,7 +6,7 @@ import math
 
 # 0. VARIABLES AND LITERALS
 # --- Multiple assignment
-nama_anggota, id_anggota = "Rizky", 3107261845
+nama_anggota, id_anggota = "FERRY", 2595114023
 print("Nama pasien:", nama_anggota)
 print("ID pasien  :", id_anggota)
 
@@ -22,7 +22,7 @@ print("Batas maksimal kunjungan:", MAKS_KUNJUNGAN_PER_PASIEN)
 # "jangan diubah", Python tidak benar-benar menguncinya.
 
 # --- Literals
-literal_integer = 2595114037          # numeric literal (int)
+literal_integer = 2595114023         # numeric literal (int)
 literal_float = 4.7                   # numeric literal (float)
 literal_underscore = 1_000_000        # underscore cuma pemisah biar gampang dibaca manusia
 literal_string = 'Perpustakaan Kampus'  # string literal
